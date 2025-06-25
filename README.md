@@ -1,6 +1,6 @@
 # Langchain Demo With gemma2:2b
 
-![Demo Screenshot](<img width="940" alt="ollama screenshot" src="https://github.com/user-attachments/assets/ee3e0163-1e21-46b5-825c-72444248bd88" />)
+<img width="940" alt="ollama screenshot" src="https://github.com/user-attachments/assets/ee3e0163-1e21-46b5-825c-72444248bd88" />
 
 ## Overview
 
