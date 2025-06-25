@@ -91,11 +91,5 @@ Pull requests and suggestions are welcome! Please open an issue to discuss major
 
 ---
 
-**Demo Screenshot:**
-
-![LangChain Demo Screenshot](<img width="940" alt="ollama screenshot" src="https://github.com/user-attachments/assets/9e3f755d-c3fb-4a4d-90ab-74563a55faac" />
-)
-
----
 
 *This project uses Groq API and Ollama to showcase the power of modern LLMs for interactive Q&A demos.*
